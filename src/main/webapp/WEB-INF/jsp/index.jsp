@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<%@ include file="/WEB-INF/jsp/common/head.jsp" %>
+	  <%@ include file="/WEB-INF/jsp/common/head.jsp" %>
 </head>
 <body id="page-top">
   <!-- Page Wrapper -->
@@ -14,8 +14,8 @@
     <div id="content-wrapper" class="d-flex flex-column">
       <!-- Main Content -->
       <div id="content">
-		<!-- Topbar -->
-		<%@ include file="/WEB-INF/jsp/common/topbar.jsp" %>
+		    <!-- Topbar -->
+		    <%@ include file="/WEB-INF/jsp/common/topbar.jsp" %>
 
         <!-- Begin Page Content -->
         <div class="container-fluid">
@@ -23,13 +23,13 @@
 
 
 
-		</div>
-		
+		    </div>
+  
       </div>
       <!-- End of Main Content -->
 
       <!-- Footer -->
-	  <%@ include file="/WEB-INF/jsp/common/footer.jsp" %>
+	    <%@ include file="/WEB-INF/jsp/common/footer.jsp" %>
     </div>
     <!-- End of Content Wrapper -->
   </div>
